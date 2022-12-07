@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jogadores</string>
+    <string name="jogador1">Remko PASVEER</string>
+    <string name="jogador2">Matthijs DE LIGT</string>
+    <string name="jogador3">VirgilVAN DIJK</string>
+    <string name="jogador4">StevenBERGWIJN</string>
+    <string name="jogador5">Luuk DE JONG</string>
+    <string name="jogador6">MemphisDEPAY</string>
+    <string name="jogador7">StevenBERGHUIS</string>
+    <string name="jogador8">Noa LANG</string>
+    <string name="jogador9">Davy KLAASSEN</string>
+    <string name="jogador10">Jurrien TIMBER</string>
+    <string name="jogador11">Nathan AKE</string>
+    <string name="jogador12">Justin BIJLOW</string>
+
+</resources>
